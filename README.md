@@ -1,13 +1,13 @@
 <div align="center">
 	<picture>
   	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pantheon-systems/decoupled-kit-js/canary/web/static/img/W_Fist-Tagline.png">
+
   	<img height="120" alt="Pantheon.io logo featuring a fist capturing lighting. Pantheon™, The Platform for Extraordinary Websites." src="https://raw.githubusercontent.com/pantheon-systems/decoupled-kit-js/canary/web/static/img/B_Fist-Tagline.png">
 	</picture>
 	<a href="https://decoupledkit.pantheon.io/docs#next-drupal-starter">
 		<h1 style="margin:auto;" align="center">Next Drupal Starter</h1>
 	</a>
 </div>
-
 
 For detailed documentation on the Decoupled Kit Starters, visit
 [the Decoupled Kit developer documentation](https://decoupledkit.pantheon.io).
