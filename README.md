@@ -8,6 +8,7 @@
 		<h1 style="margin:auto;" align="center">Next Drupal Starter</h1>
 	</a>
 </div>
+
 For detailed documentation on the Decoupled Kit Starters, visit
 [the Decoupled Kit developer documentation](https://decoupledkit.pantheon.io).
 
